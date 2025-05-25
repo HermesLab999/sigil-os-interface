@@ -1,7 +1,5 @@
 # Sigil-OS Interface
 
-g
-
 This repo manages input/output between symbolic glyph controls and harmonic field commands. Built to interface with touch-panel glyph matrices and BLE command relays.
 
 ## Key Files
